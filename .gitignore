@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore .db files
+*.db
+
+# Ignore .log files
+*.log
+
+# Ignore directories named target
+target/
+
+# Ignore directories named bin
+bin/
